@@ -1,0 +1,19 @@
+h1{
+	color:white;
+	background-color: orange;
+	transition: 3s;
+	padding: 8px;
+	margin: 5px;
+	display: inline-block;
+	
+}
+button{
+	color:white;
+	background-color: black;
+	padding: 20px 40px;
+	transition: 3s;
+	display: block;
+	border: none;
+
+
+}
